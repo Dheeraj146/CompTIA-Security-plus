@@ -1,20 +1,21 @@
 # Domain 3 — Security Architecture
 
-Security architecture focuses on designing and selecting secure infrastructure, networks, systems, applications, cloud environments, and specialized technologies. The progression starts with architectural principles and trust boundaries, then moves into deployment models, network design, segmentation, virtualization, cloud, containers, specialized systems, and resilience.
+Domain 3 focuses on secure enterprise architecture, network and infrastructure design, cloud and virtualization, application architecture, specialized systems, cryptographic architecture, segmentation, and resilience.
 
-## Study Sequence
+## Complete Study Sequence
 
 1. [Enterprise Security Architecture](01-enterprise-security-architecture.md)
 2. [Network Architecture and Secure Network Design](02-network-architecture-and-secure-network-design.md)
 3. [On-Premises, Cloud, and Hybrid Environments](03-on-premises-cloud-and-hybrid-environments.md)
-4. [Network Segmentation, DMZ, and Isolation](04-network-segmentation-dmz-and-isolation.md)
-5. [Virtualization and Virtual Networking](05-virtualization-and-virtual-networking.md)
+4. [Segmentation and Isolation](04-segmentation-and-isolation.md)
+5. [Virtualization and Containers](05-virtualization-and-containers.md)
 6. [Cloud Security Architecture](06-cloud-security-architecture.md)
-7. [Containers and Container Orchestration](07-containers-and-container-orchestration.md)
-8. [IoT, ICS, SCADA, and Embedded Systems](08-iot-ics-scada-and-embedded-systems.md)
-9. [Infrastructure Security and Secure Protocols](09-infrastructure-security-and-secure-protocols.md)
-10. [Resilience, Redundancy, and High Availability](10-resilience-redundancy-and-high-availability.md)
-11. [Disaster Recovery and Recovery Architecture](11-disaster-recovery-and-recovery-architecture.md)
+7. [IoT, ICS, and Embedded Systems](07-iot-ics-and-embedded-systems.md)
+8. [Secure Protocols and Network Security Technologies](08-secure-protocols-and-network-security-technologies.md)
+9. [Resilience, Redundancy, and High Availability](09-resilience-redundancy-and-high-availability.md)
+10. [Disaster Recovery and Backup Architecture](10-disaster-recovery-and-backup-architecture.md)
+11. [Secure Application Development and Deployment](11-secure-application-development-and-deployment.md)
+12. [Cryptographic Architecture](12-cryptographic-architecture.md)
 
 ## Architecture Decision Framework
 
