@@ -1,23 +1,26 @@
 # Domain 2 — Threats, Vulnerabilities, and Mitigations
 
-This domain progresses from identifying threat actors and attack techniques to understanding vulnerabilities, exploitation, vulnerability management, and appropriate mitigation strategies.
+Domain 2 focuses on the relationship between **threat actors, threats, vulnerabilities, exploits, risk, impact, and mitigations**. The learning sequence moves from understanding who performs attacks and why, through the major attack techniques and vulnerability classes, and finally into vulnerability management and defensive response.
 
-## Concepts
+## Study Sequence
 
-1. Threat Actors
-2. Threat Actor Motivations
-3. Vulnerability Concepts
-4. Malware
-5. Social Engineering
-6. Phishing and Variants
-7. Password Attacks
-8. Network Attacks
-9. Application and Web Attacks
-10. Wireless Attacks
-11. Cryptographic Attacks
-12. Supply Chain Attacks
-13. Vulnerability Management
-14. Vulnerability Scanning
-15. Penetration Testing
-16. Vulnerability Remediation
-17. Mitigation Techniques
+1. [Threat Actors and Motivations](01-threat-actors-and-motivations.md)
+2. [Threat Vectors and Attack Surfaces](02-threat-vectors-and-attack-surfaces.md)
+3. [Malware](03-malware.md)
+4. [Social Engineering](04-social-engineering.md)
+5. [Credential and Password Attacks](05-credential-and-password-attacks.md)
+6. [Network Attacks](06-network-attacks.md)
+7. [Application and Web Attacks](07-application-and-web-attacks.md)
+8. [Wireless, Mobile, and Specialized Attacks](08-wireless-mobile-and-specialized-attacks.md)
+9. [Vulnerability Concepts](09-vulnerability-concepts.md)
+10. [Vulnerability Identification and Scanning](10-vulnerability-identification-and-scanning.md)
+11. [Penetration Testing](11-penetration-testing.md)
+12. [Vulnerability Remediation and Mitigation](12-vulnerability-remediation-and-mitigation.md)
+
+## How to Study This Domain
+
+For every attack or vulnerability, learn the complete chain:
+
+**Asset → Weakness → Threat Actor → Attack Vector → Exploitation → Impact → Detection → Mitigation**
+
+Do not memorize attack names in isolation. Security+ scenarios commonly require identifying the underlying weakness, determining the likely attack technique, and selecting the most appropriate mitigation.
