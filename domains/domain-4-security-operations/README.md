@@ -1,9 +1,10 @@
 # Domain 4 — Security Operations
 
-Domain 4 covers the operational work required to secure, monitor, maintain, investigate, and recover technology environments. It progresses from assets and configurations through IAM, security technologies, telemetry, vulnerability management, incident response, forensics, recovery, and automation.
+Domain 4 covers the operational work required to secure, monitor, maintain, investigate, and recover technology environments. It progresses from assets and configurations through IAM, endpoint and network security, telemetry, SIEM, automation, vulnerability management, incident response, forensics, malware handling, recovery, and operational improvement.
 
 ## Complete Study Sequence
 
+0. [Complete Domain Study Notes](00-complete-domain-study-notes.md)
 1. [Security Operations Fundamentals](01-security-operations-fundamentals.md)
 2. [Asset Management](02-asset-management.md)
 3. [Secure Baselines and Configuration Management](03-secure-baselines-and-configuration-management.md)
@@ -25,8 +26,6 @@ Domain 4 covers the operational work required to secure, monitor, maintain, inve
 
 ## Operational Learning Model
 
-For each operational activity, understand:
-
 **Asset → Configuration → Telemetry → Detection → Analysis → Response → Recovery → Lessons Learned**
 
-Security+ scenario questions commonly require selecting the correct operational process or technology, interpreting security data, distinguishing controls, and determining the appropriate response to an event.
+The complete study notes provide the detailed operational narrative, while the individual files provide focused revision for each operational area.
