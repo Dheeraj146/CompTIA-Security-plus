@@ -1,9 +1,10 @@
 # Domain 2 — Threats, Vulnerabilities, and Mitigations
 
-Domain 2 develops the ability to identify threat actors, attack techniques, vulnerability types, malicious indicators, and appropriate mitigation strategies. The material progresses from the attacker and attack surface through exploitation, vulnerability assessment, penetration testing, and remediation.
+Domain 2 develops the ability to understand **who attacks, why attacks occur, how attacks reach targets, which weaknesses are exploited, what malicious activity looks like, and how defenders reduce risk**.
 
 ## Complete Study Sequence
 
+0. [Complete Domain Study Notes](00-complete-domain-study-notes.md)
 1. [Threat Actors and Motivations](01-threat-actors-and-motivations.md)
 2. [Threat Vectors and Attack Surfaces](02-threat-vectors-and-attack-surfaces.md)
 3. [Malware](03-malware.md)
@@ -24,4 +25,4 @@ For every attack or vulnerability, learn the complete chain:
 
 **Asset → Weakness → Threat Actor → Attack Vector → Exploitation → Impact → Detection → Mitigation**
 
-Do not memorize attack names in isolation. Security+ scenarios commonly require identifying the underlying weakness, determining the likely attack technique, recognizing evidence of malicious activity, and selecting the most appropriate mitigation.
+The complete study notes provide the conceptual narrative first. The individual files then provide focused revision for each topic.
