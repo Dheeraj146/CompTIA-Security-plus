@@ -1,9 +1,10 @@
 # Domain 3 — Security Architecture
 
-Domain 3 focuses on secure enterprise architecture, network and infrastructure design, cloud and virtualization, application architecture, specialized systems, cryptographic architecture, segmentation, and resilience.
+Domain 3 explains how secure enterprise environments are designed. It progresses from architecture principles and network design through segmentation, virtualization, cloud, specialized systems, secure protocols, resilience, recovery, application security, and cryptographic architecture.
 
 ## Complete Study Sequence
 
+0. [Complete Domain Study Notes](00-complete-domain-study-notes.md)
 1. [Enterprise Security Architecture](01-enterprise-security-architecture.md)
 2. [Network Architecture and Secure Network Design](02-network-architecture-and-secure-network-design.md)
 3. [On-Premises, Cloud, and Hybrid Environments](03-on-premises-cloud-and-hybrid-environments.md)
@@ -19,8 +20,6 @@ Domain 3 focuses on secure enterprise architecture, network and infrastructure d
 
 ## Architecture Decision Framework
 
-When analyzing a Security+ architecture scenario, work through:
-
 **Business requirement → Assets → Threats → Trust boundaries → Architecture → Security controls → Availability and resilience → Operational trade-offs**
 
-Do not memorize technologies in isolation. Understand why an architecture is selected, what security property it protects, where it should be deployed, and what limitations or dependencies it introduces.
+The complete study notes provide the detailed architecture narrative, while the individual files provide focused revision for each subject.
