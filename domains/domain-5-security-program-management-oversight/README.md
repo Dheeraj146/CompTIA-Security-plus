@@ -1,9 +1,10 @@
 # Domain 5 — Security Program Management and Oversight
 
-Domain 5 develops the governance and management perspective required to operate an effective security program. The progression moves from governance and organizational security requirements through risk management, business continuity, incident planning, awareness, third-party risk, compliance, privacy, documentation, metrics, and continuous security program improvement.
+Domain 5 develops the governance and management perspective required to operate an effective security program. It progresses from governance and organizational security requirements through risk management, business continuity, incident planning, awareness, third-party risk, compliance, privacy, documentation, metrics, and continuous security program improvement.
 
-## Study Sequence
+## Complete Study Sequence
 
+0. [Complete Domain Study Notes](00-complete-domain-study-notes.md)
 1. [Governance and Security Policies](01-governance-and-security-policies.md)
 2. [Risk Management](02-risk-management.md)
 3. [Business Impact Analysis and Continuity](03-business-impact-analysis-and-continuity.md)
@@ -18,8 +19,6 @@ Domain 5 develops the governance and management perspective required to operate 
 
 ## Management Decision Framework
 
-When analyzing a Security+ management scenario, work through:
-
 **Business objective → Requirements → Assets and stakeholders → Risk → Control/response → Accountability → Evidence → Measurement → Continuous improvement**
 
-Do not memorize governance terms in isolation. Understand who is accountable, what requirement is being addressed, what risk is being managed, what evidence demonstrates compliance, and how the organization verifies that controls remain effective.
+The complete study notes provide the detailed management narrative, while the individual files provide focused revision for each subject.
